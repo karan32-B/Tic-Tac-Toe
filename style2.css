@@ -30,6 +30,9 @@ body{
     font-size : 8vmin;
     color: #b0413e;
     background-color: #ffff07;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 
 #reset-btn{
@@ -66,10 +69,3 @@ body{
 .hide{
     display: none;
 } 
-box.innertext{
-    justify-content: ceter;
-    margin-top:3px;
-
-}
-
-
