@@ -7,7 +7,7 @@ body{
     text-align: center;
 }
 .container {
-    height : 70vh;
+    height : 71vh;
     display : flex;
     justify-content : center;
     align-items : center;
@@ -19,7 +19,7 @@ body{
     flex-wrap : wrap;
     justify-content : center;
     align-items : center;
-    gap : 1.5vmin;
+    gap : 1.9vmin;
 }
 .box{
     height : 18vmin;
@@ -51,7 +51,7 @@ body{
 
 #msg{
     color :darkred;
-    font-size : 3.65vmin;
+    font-size : 3.67vmin;
 }
 
 .msg-container {
@@ -66,5 +66,10 @@ body{
 .hide{
     display: none;
 } 
+box.innertext{
+    justify-content: ceter;
+    margin-top:3px;
+
+}
 
 
